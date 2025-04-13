@@ -22,26 +22,26 @@
     "description": "Describe what",
     "answer": "<p>This is a <strong>bold</strong>"
   },
-      {
-    id: "3",
-    subject: "Science",
-    title:'something',
-    subjectId: "sci",
-    subtopic: "Physics",
-    subtopicId: "array",
- "description": "<p>Consider the following binary tree structure. If we perform an inorder traversal, what would be the order of visited nodes?</p><pre><code>    4\n   / \\\n  2   5\n / \\\n1   3</code></pre>",
- "answer": "<p>1, 2, 3, 4, 5</p>",
- "difficulty": "medium"
+    {
+    "id": "3",
+    "subject" : "Science",
+    "title" :"something",
+    "subjectId": "sci",
+    "subtopic": "Physics",
+    "subtopicId": "array",
+    "difficulty": "Hard",
+    "description": "Describe what1",
+    "answer": "<p>This is a <strong>bold</strong>"
   },
-      {
-    id: "4",
-    subject: "Science",
-    title:'something',
-    subjectId: "sci",
-    subtopic: "Physics",
-    subtopicId: "array",
- "description": "<p>Consider the following binary tree structure. If we perform an inorder traversal, what would be the order of visited nodes?</p><pre><code>    4\n   / \\\n  2   5\n / \\\n1   3</code></pre>",
- "answer": "<p>1, 2, 3, 4, 5ffjfjffjfjjfjfj</p>",
- "difficulty": "medium"
-  },
+  {
+    "id": "4",
+    "subject" : "Science",
+    "title" :"something",
+    "subjectId": "sci",
+    "subtopic": "Physics",
+    "subtopicId": "array",
+    "difficulty": "Hard",
+    "description": "Describe what",
+    "answer": "<p>This is a <strong>bold</strong>"
+  }
 ]
